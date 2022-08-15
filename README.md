@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <h1 textalign = 'center'> Oi, Bem vindo ao DevGuaxinim 🦝</h1>
+  <h1 textalign = 'center'> Oi, Bem vindo ao JoSilvaDev 🦝🖖</h1>
     <div id="apresentação">
       <h2>Quem sou eu?</h2>
         <p>Meu nome é <strong>Joilson Silva</strong>, tenho 22 anos,<br>
